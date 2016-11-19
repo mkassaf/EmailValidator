@@ -33,6 +33,7 @@ public class EmailValidatorDriverTest  extends TestCase {
     }
     
     public void testIsEmailValid(){
-    	assertTrue( true );
+    	EmailValidatorDriver emailValidatorDriver = new EmailValidatorDriver("", "");
+    	 assertTrue( true );
     }
 }
