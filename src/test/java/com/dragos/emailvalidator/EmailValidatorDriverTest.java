@@ -27,7 +27,7 @@ public class EmailValidatorDriverTest  extends TestCase {
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testEmailValidatorDriver()
     {
         assertTrue( true );
     }
