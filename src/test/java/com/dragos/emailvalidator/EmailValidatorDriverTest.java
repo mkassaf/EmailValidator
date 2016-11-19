@@ -33,5 +33,6 @@ public class EmailValidatorDriverTest  extends TestCase {
     }
     
     public void testIsEmailValid(){
+    	assertTrue( true );
     }
 }
